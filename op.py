@@ -4,7 +4,7 @@ import google.generativeai as genai
 # ---------------------------
 #  Configure Gemini API key (Direct way)
 # ---------------------------
-genai.configure(api_key="AIzaSyCJV3xoXokxiamPRZHXP5iuP3HPpmzhQis")  
+genai.configure(api_key="enter key")  
 
 # ---------------------------
 # Gemini Model
